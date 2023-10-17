@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Delicious Food</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="htttps://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-aymec3yw5cvb3zcuhtoa93w35dytsvhlpvnys9esthfgjvovkxvfel">
+    </head>
+    <body>
+        <section>
+            <div class="blur_clr"></div>
+            <div class="blur_clr"></div>
+            <header>
+                <a href="#" class="logo"><i class="fas fa-hamburger"></i></a>
+                <ul class="nav">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Menu</a></li>
+                    <li><a href="#">AboutUs</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>   
+                <a href="#" class="btn">Sign Up</a>
+            </header>
+            <div class="content">
+                <div class="content8x">
+                    <h1>Best Food for your taste</h1>
+                    <p>The two areas activated when hungry participants saw pictures of tasty pizza or juicy hamburgers.</p>
+                    <a class="btn">Order Now</a>
+                </div>
+                <div class="img8x">
+                    <img src="C:\Users\grees\Downloads\burger.jpg" width="500px" height="400px">
+                </div>
+            </div>
+        </section>
+    </body>
+</html>
